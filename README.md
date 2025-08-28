@@ -10,5 +10,4 @@ Armazena os projetos em "repositórios", que são como pastas para o seu código
 O Git é a base para acompanhar todas as mudanças no código ao longo do tempo, facilitando o trabalho colaborativo. 
 /* Colaboração:
 Permite que equipes trabalhem juntas, revisem o código de colegas através de "pull requests" e façam a mesclagem de alterações.*/
-// Gestão de projetos:
-Oferece ferramentas como "issues", "milestones" e "boards" para organizar e acompanhar o progresso do projeto. 
+
